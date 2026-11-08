@@ -1,0 +1,8 @@
+/* DEMO CONTENT ONLY. Replace with products from /api/products (Phase 3). Prices intentionally null: owner sets them. */
+const PRODUCTS=[
+{id:'demo-hr-xl',demo:true,format:'excel',industry:0,featured:true,created:'2026-10-01',price:null,currency:'USD',title:{en:'HR Overview Dashboard (sample)',ar:'لوحة الموارد البشرية (نموذج)'},desc:{en:'Headcount, turnover and hiring KPIs in one workbook.',ar:'مؤشرات عدد الموظفين والدوران والتوظيف في ملف واحد.'}},
+{id:'demo-sales-pbi',demo:true,format:'powerbi',industry:1,featured:true,created:'2026-10-05',price:null,currency:'USD',title:{en:'Sales Performance (sample)',ar:'أداء المبيعات (نموذج)'},desc:{en:'Revenue, targets and regional drill-downs.',ar:'الإيرادات والأهداف وتفاصيل المناطق.'}},
+{id:'demo-fin-html',demo:true,format:'html',industry:2,featured:true,created:'2026-10-10',price:null,currency:'USD',title:{en:'Finance Snapshot (sample)',ar:'لمحة مالية (نموذج)'},desc:{en:'Interactive cash-flow and expense web dashboard.',ar:'لوحة ويب تفاعلية للتدفق النقدي والمصروفات.'}},
+{id:'demo-inv-xl',demo:true,format:'excel',industry:4,featured:false,created:'2026-10-15',price:null,currency:'USD',title:{en:'Inventory Tracker (sample)',ar:'متتبع المخزون (نموذج)'},desc:{en:'Stock levels, reorder alerts and turnover.',ar:'مستويات المخزون وتنبيهات إعادة الطلب.'}},
+{id:'demo-social-pbi',demo:true,format:'powerbi',industry:8,featured:false,created:'2026-10-20',price:null,currency:'USD',title:{en:'Social Media Analytics (sample)',ar:'تحليلات التواصل الاجتماعي (نموذج)'},desc:{en:'Reach, engagement and content performance.',ar:'الوصول والتفاعل وأداء المحتوى.'}}];
+const CONFIG={whatsapp:'201127238627',email:'mahmoudrefat105@gmail.com',youtube:'https://www.youtube.com/@MahmoudRefatBI',linkedin:''};
